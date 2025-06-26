@@ -1,2 +1,3 @@
 # DevSync
-// Go + MERN based social-media app (+responsive)
+# there will be 6 mini-projects 
+# 1.CLI To-Do
